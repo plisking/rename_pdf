@@ -1,6 +1,6 @@
 # rename_pdf
 
-批量根据 PDF 的“标题”重命名文件（优先使用元数据 Title，失败则从前几页文本中推断），适用于 Windows/macOS/Linux。
+批量根据 PDF 文件内容中的的“标题”，重命名文件，适用于 Windows/macOS/Linux。
 
 ## 安装依赖
 
